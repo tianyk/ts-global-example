@@ -1,0 +1,6 @@
+{
+	"cookie": {
+		"name": "sid",
+		"maxAge": "7d"
+	}
+}
